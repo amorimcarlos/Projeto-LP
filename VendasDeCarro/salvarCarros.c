@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "salvarCarros.h"
 
-void salvarCarrosTXT(Carro *carros, int total) {
+void salvarCarros(Carro *carros, int total) {
     FILE *f = fopen("carros.txt", "w");
 
     if (f == NULL) {
