@@ -73,7 +73,7 @@ void menuCarros(Carro *listaCarros, int *totalCarros) {
         printf("\n--------------- MENU CARROS ---------------\n");
         printf("1 - Listar carros\n");
         printf("2 - Remover carro\n");
-        printf("3 - Salvar carros (TXT)\n");
+        printf("3 - Salvar carros\n");
         printf("0 - Voltar\n");
         printf("Opcao: ");
         scanf("%d", &opcao);
@@ -86,7 +86,7 @@ void menuCarros(Carro *listaCarros, int *totalCarros) {
                 removerCarro(listaCarros, totalCarros);
                 break;
             case 3:
-                salvarCarrosTXT(listaCarros, *totalCarros);
+                salvarCarros(listaCarros, *totalCarros);
                 break;
             case 0:
                 break;
@@ -105,7 +105,7 @@ void menuClientes(Cliente *listaClientes, int *totalClientes) {
         printf("1 - Adicionar cliente\n");
         printf("2 - Atualizar cliente\n");
         printf("3 - Buscar cliente por CPF\n");
-        printf("4 - Carregar clientes (TXT)\n");
+        printf("4 - Carregar clientes \n");
         printf("0 - Voltar\n");
         printf("Opcao: ");
         scanf("%d", &opcao);
@@ -125,7 +125,7 @@ void menuClientes(Cliente *listaClientes, int *totalClientes) {
                 break;
             }
             case 4:
-                *totalClientes = carregarClientesTXT(listaClientes);
+                *totalClientes = carregarClientes(listaClientes);
                 break;
             case 0:
                 break;
@@ -142,7 +142,7 @@ void menuVendas(Venda *listaVendas, int *totalVendas) {
     do {
         printf("\n--------------- MENU VENDAS ---------------\n");
         printf("1 - Listar vendas\n");
-        printf("2 - Carregar vendas (TXT)\n");
+        printf("2 - Carregar vendas\n");
         printf("0 - Voltar\n");
         printf("Opcao: ");
         scanf("%d", &opcao);
@@ -152,7 +152,7 @@ void menuVendas(Venda *listaVendas, int *totalVendas) {
                 listarVendas(listaVendas, *totalVendas);
                 break;
             case 2:
-                *totalVendas = carregarVendasTXT(listaVendas);
+                *totalVendas = carregarVendas(listaVendas);
                 break;
             case 0:
                 break;
