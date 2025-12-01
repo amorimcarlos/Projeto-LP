@@ -31,18 +31,48 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="../../../../Desktop/Projeto-LP-main/VendasDeCarro/adicionarCarro.h" />
+		<Unit filename="adicionarCarro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="adicionarCarro.h" />
+		<Unit filename="adicionarCliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="adicionarCliente.h">
 			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="atualizarCarro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="atualizarCarro.h" />
+		<Unit filename="atualizarCliente.c">
+			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="atualizarCliente.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="buscarCarro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="buscarCarro.h" />
+		<Unit filename="buscarCliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="buscarCliente.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="carregarCarros.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="carregarCarros.h" />
+		<Unit filename="carregarCliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="carregarCliente.h">
 			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="carregarVendas.c">
+			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="carregarVendas.h">
 			<Option target="&lt;{~None~}&gt;" />
@@ -53,18 +83,51 @@
 		<Unit filename="clientes.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="listarCarros.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="listarCarros.h">
 			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="listarCliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listarCliente.h" />
+		<Unit filename="listarVendas.c">
+			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="listarVendas.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="registrarVenda.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="registrarVenda.h" />
+		<Unit filename="removerCarros.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="removerCarros.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
-		<Unit filename="salvarCarros.h">
-			<Option target="&lt;{~None~}&gt;" />
+		<Unit filename="removerCliente.c">
+			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="removerCliente.h" />
+		<Unit filename="salvarCarros.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="salvarCarros.h" />
+		<Unit filename="salvarCliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="salvarCliente.h" />
+		<Unit filename="salvarVendas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="salvarVendas.h" />
 		<Unit filename="vendas.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>

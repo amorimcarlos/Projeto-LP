@@ -2,7 +2,7 @@
 #define CARREGARCLIENTE_H_INCLUDED
 #include "clientes.h"
 
-int carregarClientesTXT(Cliente *clientes);
+int carregarClientes(Cliente *clientes);
 
 
 #endif // CARREGARCLIENTE_H_INCLUDED

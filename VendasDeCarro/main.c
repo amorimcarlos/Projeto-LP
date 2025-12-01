@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <locale.h>
 
 //Carros
 #include "adicionarCarro.h"
@@ -42,6 +43,7 @@ int main() {
     Carro   listaCarros[MAX_CARROS];
     Cliente listaClientes[MAX_CLIENTES];
     Venda   listaVendas[MAX_VENDAS];
+    setlocale(LC_ALL, "Portuguese");
 
     int totalCarros   = 0;
     int totalClientes = 0;
@@ -50,7 +52,7 @@ int main() {
     int opcao;
 
     do {
-        printf("\n---------------- MENU PRINCIPAL ----------------\n");
+        printf("\n---------------- Concessionária Dominices ----------------\n");
         printf("1 - Menu de Carros\n");
         printf("2 - Menu de Clientes\n");
         printf("3 - Menu de Vendas\n");

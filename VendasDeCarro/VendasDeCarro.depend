@@ -178,3 +178,182 @@
 	"salvarCarros.h"
 	"salvarVendas.h"
 
+1764587787 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\adicionarcliente.c
+	<stdio.h>
+	"adicionarCliente.h"
+
+1764587787 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\adicionarcliente.h
+	"clientes.h"
+
+1764587787 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\clientes.h
+
+1764587787 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\atualizarcliente.c
+	<stdio.h>
+	<string.h>
+	"atualizarCliente.h"
+	"clientes.h"
+
+1764587787 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\atualizarcliente.h
+	"atualizarCliente.h"
+	"clientes.h"
+
+1764587787 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\buscarcliente.c
+	<string.h>
+	<stdio.h>
+	"buscarCliente.h"
+
+1764587787 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\buscarcliente.h
+	"clientes.h"
+
+1764587787 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\carregarcliente.c
+	<stdio.h>
+	<string.h>
+	"carregarCliente.h"
+
+1764588547 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\carregarcliente.h
+	"clientes.h"
+
+1764587787 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\carregarvendas.c
+	<stdio.h>
+	<string.h>
+	"carregarVendas.h"
+
+1764588546 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\carregarvendas.h
+	"vendas.h"
+
+1764587788 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\vendas.h
+
+1764587787 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\listarcarros.c
+	<stdio.h>
+	"listarCarros.h"
+
+1764587788 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\listarcarros.h
+	"carros.h"
+
+1764587787 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\carros.h
+
+1764587788 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\listarvendas.c
+	<stdio.h>
+	"listarVendas.h"
+
+1764587788 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\listarvendas.h
+	"vendas.h"
+
+1764588457 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\main.c
+	<stdio.h>
+	"adicionarCarro.h"
+	"listarCarros.h"
+	"atualizarCarro.h"
+	"buscarCarro.h"
+	"removerCarros.h"
+	"salvarCarros.h"
+	"carregarCarros.h"
+	"listarCarros.h"
+	"removerCarros.h"
+	"salvarCarros.h"
+	"adicionarCliente.h"
+	"atualizarCliente.h"
+	"buscarCliente.h"
+	"listarCliente.h"
+	"removerCliente.h"
+	"salvarCliente.h"
+	"carregarCliente.h"
+	"listarVendas.h"
+	"carregarVendas.h"
+	"registrarVenda.h"
+	"salvarVendas.h"
+
+1764587787 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\adicionarcarro.h
+	"carros.h"
+
+1764587787 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\atualizarcarro.h
+	"carros.h"
+
+1764587787 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\buscarcarro.h
+	"carros.h"
+
+1764587788 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\removercarros.h
+	"carros.h"
+
+1764588434 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\salvarcarros.h
+	"carros.h"
+
+1764587787 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\carregarcarros.h
+	"carros.h"
+
+1764587788 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\listarcliente.h
+	"clientes.h"
+
+1764587788 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\removercliente.h
+	"clientes.h"
+
+1764587788 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\salvarcliente.h
+	"clientes.h"
+
+1764587788 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\registrarvenda.h
+	"vendas.h"
+	"carros.h"
+	"clientes.h"
+
+1764587788 c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\salvarvendas.h
+	"vendas.h"
+
+1764587788 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\removercarros.c
+	<stdio.h>
+	<string.h>
+	"removerCarros.h"
+
+1764587788 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\salvarcarros.c
+	<stdio.h>
+	"salvarCarros.h"
+
+1764587788 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\structs.c
+
+1764587787 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\adicionarcarro.c
+	<stdio.h>
+	"adicionarCarro.h"
+
+1764587787 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\buscarcarro.c
+	<stdio.h>
+	<string.h>
+	"buscarCarro.h"
+
+1764587787 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\carregarcarros.c
+	<stdio.h>
+	"carregarCarros.h"
+
+1764587788 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\listarcliente.c
+	<stdio.h>
+	"listarCliente.h"
+
+1764587788 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\removercliente.c
+	<stdio.h>
+	"removerCliente.h"
+	"buscarCliente.h"
+	"salvarCliente.h"
+
+1764587788 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\salvarcliente.c
+	<stdio.h>
+	"salvarCliente.h"
+
+1764587788 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\salvarvendas.c
+	<stdio.h>
+	"salvarVendas.h"
+
+1764587787 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\atualizarcarro.c
+	<stdio.h>
+	<string.h>
+	"atualizarCarro.h"
+	"buscarCarro.h"
+	"salvarCarros.h"
+
+1764587788 source:c:\users\edits\onedrive\desktop\projeto-lp-main\vendasdecarro\registrarvenda.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"registrarVenda.h"
+	"buscarCarro.h"
+	"buscarCliente.h"
+	"salvarCarros.h"
+	"salvarVendas.h"
+

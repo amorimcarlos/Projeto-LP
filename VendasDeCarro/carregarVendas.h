@@ -2,7 +2,7 @@
 #define CARREGARVENDAS_H_INCLUDED
 #include "vendas.h"
 
-int carregarVendasTXT(Venda *vendas);
+int carregarVendas(Venda *vendas);
 
 
 #endif // CARREGARVENDAS_H_INCLUDED
