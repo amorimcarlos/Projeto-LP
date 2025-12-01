@@ -2,7 +2,7 @@
 #include <string.h>
 #include "carregarCliente.h"
 
-int carregarClientesTXT(Cliente *clientes) {
+int carregarClientes(Cliente *clientes) {
 
     FILE *f = fopen("clientes.txt", "r");
     if (f == NULL) {

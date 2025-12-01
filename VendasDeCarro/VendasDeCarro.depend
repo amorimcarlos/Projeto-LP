@@ -16,7 +16,7 @@
 1764284449 c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\buscarcliente.h
 	"clientes.h"
 
-1764283909 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\carregarvendas.c
+1764558428 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\carregarvendas.c
 	<stdio.h>
 	<string.h>
 	"carregarVendas.h"
@@ -42,7 +42,7 @@
 1764284449 c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\listarvendas.h
 	"vendas.h"
 
-1764283133 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\salvarcarros.c
+1764474348 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\salvarcarros.c
 	<stdio.h>
 	"salvarCarros.h"
 
@@ -51,7 +51,7 @@
 
 1764284043 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\structs.c
 
-1764284624 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\carregarcliente.c
+1764558402 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\carregarcliente.c
 	<stdio.h>
 	<string.h>
 	"carregarCliente.h"
@@ -59,20 +59,29 @@
 1764284449 c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\carregarcliente.h
 	"clientes.h"
 
-1764284697 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\main.c
+1764558465 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\main.c
 	<stdio.h>
-	"carros.h"
-	"clientes.h"
-	"vendas.h"
+	"adicionarCarro.h"
+	"listarCarros.h"
+	"atualizarCarro.h"
+	"buscarCarro.h"
+	"removerCarros.h"
+	"salvarCarros.h"
+	"carregarCarros.h"
 	"listarCarros.h"
 	"removerCarros.h"
 	"salvarCarros.h"
 	"adicionarCliente.h"
 	"atualizarCliente.h"
 	"buscarCliente.h"
+	"listarCliente.h"
+	"removerCliente.h"
+	"salvarCliente.h"
 	"carregarCliente.h"
 	"listarVendas.h"
 	"carregarVendas.h"
+	"registrarVenda.h"
+	"salvarVendas.h"
 
 1764284449 c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\removercarros.h
 	"carros.h"
@@ -85,4 +94,87 @@
 	<stdio.h>
 	<string.h>
 	"removerCarros.h"
+
+1764284736 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\atualizarcliente.c
+	<stdio.h>
+	<string.h>
+	"atualizarCliente.h"
+	"clientes.h"
+
+1764557175 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\adicionarcarro.c
+	<stdio.h>
+	"adicionarCarro.h"
+
+1764556577 c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\adicionarcarro.h
+	"carros.h"
+
+1764557424 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\atualizarcarro.c
+	<stdio.h>
+	<string.h>
+	"atualizarCarro.h"
+	"buscarCarro.h"
+	"salvarCarros.h"
+
+1764556575 c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\atualizarcarro.h
+	"carros.h"
+
+1764556573 c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\buscarcarro.h
+	"carros.h"
+
+1764557526 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\buscarcarro.c
+	<stdio.h>
+	<string.h>
+	"buscarCarro.h"
+
+1764557628 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\carregarcarros.c
+	<stdio.h>
+	"carregarCarros.h"
+
+1764556563 c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\carregarcarros.h
+	"carros.h"
+
+1764557763 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\listarcliente.c
+	<stdio.h>
+	"listarCliente.h"
+
+1764556559 c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\listarcliente.h
+	"clientes.h"
+
+1764557813 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\salvarvendas.c
+	<stdio.h>
+	"salvarVendas.h"
+
+1764556549 c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\salvarvendas.h
+	"vendas.h"
+
+1764556557 c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\removercliente.h
+	"clientes.h"
+
+1764556555 c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\salvarcliente.h
+	"clientes.h"
+
+1764556551 c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\registrarvenda.h
+	"vendas.h"
+	"carros.h"
+	"clientes.h"
+
+1764558107 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\removercliente.c
+	<stdio.h>
+	"removerCliente.h"
+	"buscarCliente.h"
+	"salvarCliente.h"
+
+1764558185 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\salvarcliente.c
+	<stdio.h>
+	"salvarCliente.h"
+
+1764558433 source:c:\users\edits\onedrive\documentos\atividades em c\vendasdecarro\registrarvenda.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"registrarVenda.h"
+	"buscarCarro.h"
+	"buscarCliente.h"
+	"salvarCarros.h"
+	"salvarVendas.h"
 

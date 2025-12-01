@@ -31,8 +31,74 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="adicionarCliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="adicionarCliente.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="atualizarCliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="atualizarCliente.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="buscarCliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="buscarCliente.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="carregarCliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="carregarCliente.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="carregarVendas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="carregarVendas.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="carros.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="clientes.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="listarCarros.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listarCarros.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="listarVendas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listarVendas.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="removerCarros.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="removerCarros.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="salvarCarros.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="salvarCarros.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="structs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="vendas.h">
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />
